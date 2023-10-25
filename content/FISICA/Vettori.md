@@ -1,4 +1,4 @@
-#cinematica ttori e scalari
+#cinematica 
 
 
 > **VETTORI**: 
