@@ -1,8 +1,13 @@
 #lavoro #energia
+
+# SOMMARIO
 - [[Energia cinetica]]
 - [[Forze conservative]]
 - [[Conservazione dell'energia meccanica]]
 - [[Potenza]]
+
+
+# LAVORO
 >[!DEF. DI LAVORO]
 >Una forza (non nulla), quando sposta un corpo, compie un lavoro
 >$W =Fs$ 
