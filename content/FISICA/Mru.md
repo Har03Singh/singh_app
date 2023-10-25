@@ -1,5 +1,5 @@
-#Motivelvar #mru
- 
+#Motivelvar 
+
 	Ricavo le formule con la notazione di Leibniz
 
 - Sia v --> costante

@@ -1,4 +1,4 @@
-#fisica #cinematica #vettori #corpopuntiforme #velocità #accelerazione
+#cinematica
 
 
 # Sommario:

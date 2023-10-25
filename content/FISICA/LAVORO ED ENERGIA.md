@@ -1,4 +1,4 @@
-#lavoro #energia #prodottoscalare
+#lavoro #energia
 - [[Energia cinetica]]
 - [[Forze conservative]]
 - [[Conservazione dell'energia meccanica]]

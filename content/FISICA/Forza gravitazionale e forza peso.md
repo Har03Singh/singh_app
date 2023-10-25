@@ -1,4 +1,4 @@
-#forze #lungoraggio #forzapeso #newton 
+#forze 
 
 
 >[!check] Definizione

@@ -1,4 +1,4 @@
-#newton #forze #accelerazione 
+#forze 
 >[!check] Definizione
 >Si chiama forza risultante la somma vettoriale $\sum{F}$
 >di tutte le forze applicate ad un corpo

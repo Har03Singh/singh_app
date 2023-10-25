@@ -1,4 +1,4 @@
-#cinematica #corpopuntiforme #posizione #spostamento
+#cinematica 
 ## POSIZIONE E SPOSTAMENTO
 
 - La ==posizione== di un oggetto _r_ puntiforme --> descrive collocazione rispetto ad un punto di riferimento.

@@ -1,4 +1,4 @@
-#velocità #cinematica 
+#cinematica 
 >[!Definizione]
 >Vettore che indica la rapidità di un oggetto puntiforme in una direzione orientata durante uno spostamento
 

@@ -1,5 +1,4 @@
-#cinematica #vettori #scalari #leibniz
-## Vettori e scalari
+#cinematica ttori e scalari
 
 
 > **VETTORI**: 

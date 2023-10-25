@@ -1,4 +1,4 @@
-#cinematica #accelerazione 
+#cinematica 
 >[!Definizione]
 >Se velocità varia nel tempo -> nasce accelerazione =/ 0
 
