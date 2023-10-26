@@ -18,4 +18,6 @@ Ciao, sono Singh Harprit, studente del 2_anno e in questo sito pubblico i miei a
 
 [[LAVORO ED ENERGIA]]
 
+[[ELETTROMAGNETISMO]]
+
 Disclaimer: gli appunti offerti su questo sito non sostituiscono il materiale offerto dalla prof e possono contenere errori.
