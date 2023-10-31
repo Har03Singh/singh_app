@@ -10,6 +10,5 @@ $$ v = \space \frac{dx}{dt} \space \space \int_{x_0}^{x} 1dx'=v\int_0^t 1 dt'$$
 Pertanto:
 $$x-x_0  = v*(t-0) = vt$$
 
-# ESEMPIO![[Immagine WhatsApp 2023-10-20 ore 11.48.57_6c64de46.jpg]]
 
-![[Immagine WhatsApp 2023-10-20 ore 11.48.56_86d974ea.jpg]]![[Immagine WhatsApp 2023-10-20 ore 11.48.56_58ddf144.jpg]]![[Immagine WhatsApp 2023-10-20 ore 11.48.55_1c5a3726 1.jpg]]![[Immagine WhatsApp 2023-10-20 ore 11.48.55_842febcb.jpg]]
+

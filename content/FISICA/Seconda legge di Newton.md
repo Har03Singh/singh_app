@@ -15,9 +15,3 @@ In questo caso un corpo puntiforme può avere:
 - v=0 --> equilibrio statico
 - v$\neq 0$ costante --> equilibrio dinamico
 
->ESEMPIO	
->	![[Immagine WhatsApp 2023-10-20 ore 10.53.48_5ec261d8.jpg]]
-
-
->ESEMPIO2
->	![[Immagine WhatsApp 2023-10-20 ore 10.58.05_1c22b903.jpg]]
