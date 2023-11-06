@@ -16,4 +16,6 @@ $$ E = \frac{F_e}{q} = \frac{k|Q|}{r^2} $$
  $$ E_{net} = \sum_i E_i $$
 
 
+	quindi sommo tutti i campi elettrici presenti in quel punto
+
 	L'unità di misura del campo elettrico = N/C
