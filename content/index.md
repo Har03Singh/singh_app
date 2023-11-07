@@ -12,6 +12,6 @@ Ciao, sono Singh Harprit, studente del 2°anno (sto conseguendo la laurea trienn
 
 
 
-Disclaimer: gli appunti offerti su questo sito non sostituiscono il materiale offerto dai/dalle prof e possono contenere errori.
+_Disclaimer: gli appunti offerti su questo sito non sostituiscono il materiale offerto dai/dalle prof e possono contenere errori._
 
 
