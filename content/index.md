@@ -4,20 +4,14 @@ author: Singh Harprit
 ---
 
 
-Ciao, sono Singh Harprit, studente del 2_anno e in questo sito pubblico i miei appunti. Per adesso,  con questa modalità ho preso solo gli appunti di fisica. Se riterrò opportuno, pubblicherò anche per le altre materie. 
+Ciao, sono Singh Harprit, studente del 2°anno (sto conseguendo la laurea triennale in Informatica all'UNIMORE)e in questo sito pubblico/pubblicherò i miei appunti in modo totalmente gratuito. Per adesso,  con questa modalità ho preso solo gli appunti di fisica. Se riterrò opportuno, pubblicherò anche per le altre materie. 
 
 
 
-[[CINEMATICA]]
+[[FISICA]] --> PROF ROSSELLA BRUNETTI
 
-[[LE FORZE]]
 
-[[MOTI VEL VAR]]
 
-[[MOTI 2D CIRC]]
+Disclaimer: gli appunti offerti su questo sito non sostituiscono il materiale offerto dai/dalle prof e possono contenere errori.
 
-[[LAVORO ED ENERGIA]]
 
-[[ELETTROMAGNETISMO]]
-
-Disclaimer: gli appunti offerti su questo sito non sostituiscono il materiale offerto dalla prof e possono contenere errori.
