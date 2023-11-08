@@ -9,4 +9,4 @@
 
 >[!check] Legge di Gauss
 >$$ \Phi_e = \frac{Q_{inside}}{\xi_0} $$
-
+ 
