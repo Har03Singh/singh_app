@@ -8,7 +8,7 @@ Ciao, sono Singh Harprit, studente del 2°anno (sto conseguendo la laurea trienn
 
 **SECONDO ANNO**
 
-[[FISICA]] --> PROF ROSSELLA BRUNETTI
+[[FISICA]] 
 
 
 
