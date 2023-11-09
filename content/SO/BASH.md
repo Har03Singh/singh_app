@@ -1,7 +1,7 @@
 ## SOMMARIO
 
 - [[Variabili]]
-- [[I/O su terminale]]
+- [[ I-O su terminale]]
 - [[Escaping e quoting]]
 - [[Manipolazione variabili]]
 - [[Operazioni matematiche]]
